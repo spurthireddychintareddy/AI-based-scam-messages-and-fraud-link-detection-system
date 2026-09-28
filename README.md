@@ -4,5 +4,6 @@ Developed an AI-powered system that successfully identified 90% of scam messages
 
 • Implemented a TF-IDF vectorizer and Naive Bayes classifier to analyse message content and detect
 potential scams.
+
 • Built an interactive Streamlit web application with real-time scam detection, suspicious link analysis,
 and a user-friendly interface.
